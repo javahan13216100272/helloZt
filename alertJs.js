@@ -1,4 +1,4 @@
 window.onload=function(){ 
-	var alertText="xiaoming"; 
-	alert(alertText); 
+	var alertText="window.onload事件"; 
+	console.log(alertText); 
 }
